@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="diamjwel">
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/diamjwel-java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/diamjwel-resources"/>
+        <wb-resource deploy-path="/" source-path="/diamjwel-webapp"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/core-java"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/core-resources"/>
+        <wb-resource deploy-path="/" source-path="/core-webapp"/>
+        <property name="context-root" value="diamjwel"/>
+        <property name="java-output-path" value="/diamjwel/target/classes"/>
+    </wb-module>
+</project-modules>
